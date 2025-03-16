@@ -1,0 +1,110 @@
+US REGIONAL SALES DATA
+
+About Dataset
+
+This dataset provides comprehensive insights into US regional sales data across different sales channels, including In-Store, Online, Distributor, and Wholesale. With a total of 17,992 rows and 15 columns, this dataset encompasses a wide range of information, from order and product details to sales performance metrics. It offers a comprehensive overview of sales transactions and customer interactions, enabling deep analysis of sales patterns, trends, and potential opportunities.
+
+Columns in the dataset:
+
+OrderNumber: A unique identifier for each order.
+Sales Channel: The channel through which the sale was made (In-Store, Online, Distributor, Wholesale).
+WarehouseCode: Code representing the warehouse involved in the order.
+ProcuredDate: Date when the products were procured.
+OrderDate: Date when the order was placed.
+ShipDate: Date when the order was shipped.
+DeliveryDate: Date when the order was delivered.
+SalesTeamID: Identifier for the sales team involved.
+CustomerID: Identifier for the customer.
+StoreID: Identifier for the store.
+ProductID: Identifier for the product.
+Order Quantity: Quantity of products ordered.
+Discount Applied: Applied discount for the order.
+Unit Cost: Cost of a single unit of the product.
+Unit Price: Price at which the product was sold.
+This dataset serves as a valuable resource for analysing sales trends, identifying popular products, assessing the performance of different sales channels, and optimising pricing strategies for different regions.
+
+Visualization Ideas:
+
+Time Series Analysis: Plot sales trends over time to identify seasonal patterns and changes in demand.
+Sales Channel Comparison: Compare sales performance across different channels using bar charts or line graphs.
+Product Analysis: Visualise the distribution of sales across different products using pie charts or bar plots.
+Discount Analysis: Analyse the impact of discounts on sales using scatter plots or line graphs.
+Regional Performance: Create maps to visualise sales performance across different regions.
+
+
+GLOBAL DATA ON SUSTAINABLE ENERGY(2000-2020)
+About Dataset
+Key Features:
+Entity: The name of the country or region for which the data is reported.
+Year: The year for which the data is reported, ranging from 2000 to 2020.
+Access to electricity (% of population): The percentage of population with access to electricity.
+Access to clean fuels for cooking (% of population): The percentage of the population with primary reliance on clean fuels.
+Renewable-electricity-generating-capacity-per-capita: Installed Renewable energy capacity per person
+Financial flows to developing countries (US $): Aid and assistance from developed countries for clean energy projects.
+Renewable energy share in total final energy consumption (%): Percentage of renewable energy in final energy consumption.
+Electricity from fossil fuels (TWh): Electricity generated from fossil fuels (coal, oil, gas) in terawatt-hours.
+Electricity from nuclear (TWh): Electricity generated from nuclear power in terawatt-hours.
+Electricity from renewables (TWh): Electricity generated from renewable sources (hydro, solar, wind, etc.) in terawatt-hours.
+Low-carbon electricity (% electricity): Percentage of electricity from low-carbon sources (nuclear and renewables).
+Primary energy consumption per capita (kWh/person): Energy consumption per person in kilowatt-hours.
+Energy intensity level of primary energy (MJ/$2011 PPP GDP): Energy use per unit of GDP at purchasing power parity.
+Value_co2_emissions (metric tons per capita): Carbon dioxide emissions per person in metric tons.
+Renewables (% equivalent primary energy): Equivalent primary energy that is derived from renewable sources.
+GDP growth (annual %): Annual GDP growth rate based on constant local currency.
+GDP per capita: Gross domestic product per person.
+Density (P/Km2): Population density in persons per square kilometer.
+Land Area (Km2): Total land area in square kilometers.
+Latitude: Latitude of the country's centroid in decimal degrees.
+Longitude: Longitude of the country's centroid in decimal degrees.
+Description
+Uncover this comprehensive dataset showcasing sustainable energy indicators and other useful factors across all countries from 2000 to 2020. Dive into vital aspects such as electricity access, renewable energy, carbon emissions, energy intensity, Financial flows, and economic growth. Compare nations, track progress towards Sustainable Development Goal 7, and gain profound insights into global energy consumption patterns over time.
+
+
+
+Potential Use cases
+Energy Consumption Prediction: Predict future energy usage, aid planning, and track SDG 7 progress.
+Carbon Emission Forecasting: Forecast CO2 emissions, support climate strategies.
+Energy Access Classification: Categorize regions for infrastructure development, understand sustainable energy's role.
+Sustainable Development Goal Tracking: Monitor progress towards Goal 7, evaluate policy impact.
+Energy Equity Analysis: Analyze access, density, and growth for equitable distribution.
+Energy Efficiency Optimization: Identify intensive areas for environmental impact reduction.
+Renewable Energy Potential Assessment: Identify regions for green investments based on capacity.
+Renewable Energy Investment Strategies: Guide investors towards sustainable opportunities.
+
+Potential observation
+﻿At 1,364.22, Iceland had the highest Sum of Latitude and was 258.83% higher than New Zealand, which had the lowest Sum of Latitude at -858.91.﻿﻿
+﻿﻿
+﻿﻿Sum of Latitude and total Sum of Longitude are negatively correlated with each other.﻿﻿
+﻿﻿
+﻿﻿Iceland accounted for 1.48% of Sum of Latitude.﻿﻿
+﻿﻿
+﻿﻿Sum of Longitude and Sum of Latitude diverged the most when the Entity was New Zealand, when Sum of Longitude were 4,531.52 higher than Sum of Latitude.﻿﻿
+﻿﻿
+﻿From the dataset, we saw that access to electricity is more than access to clean fuels for cooking by 56.61%.
+﻿[]﻿﻿
+﻿﻿
+﻿﻿Sum of Electricity from fossil fuels (TWh) and total Sum of Electricity from nuclear (TWh) are positively correlated with each other.﻿﻿
+﻿﻿
+﻿﻿China accounted for 26.61% of Sum of Electricity from fossil fuels (TWh).﻿﻿
+﻿﻿
+﻿﻿Across all 175 Entity, Sum of Electricity from fossil fuels (TWh) ranged from 0 to 67,927.33, Sum of Electricity from nuclear (TWh) ranged from 0 to 16,602.61, and Sum of Electricity from renewables (TWh) ranged from 0 to 19,702.94.﻿﻿
+﻿﻿
+﻿﻿China had the highest Sum of Electricity from fossil fuels (TWh) (67,927.33) and United States had the highest Sum of Electricity from nuclear (TWh) (16,602.61).﻿﻿
+﻿﻿
+﻿
+
+
+
+
+
+
+
+
+EMPLOYEE PRODUCTIVITY AND SATISFACTION HR DATA
+About Dataset
+This dataset was created to explore the diverse factors impacting employee performance and satisfaction in a typical organization. It spans a variety of fields from personal demographics to performance metrics and job details, offering a comprehensive view into the dynamics of the workplace.
+
+The inspiration behind the creation of this dataset is to provide an accessible resource for those interested in the field of HR analytics. It can be used to derive insights into employee performance, satisfaction, and overall engagement at work. This dataset is particularly useful for tasks such as predicting employee turnover, analyzing employee performance, and understanding the factors that influence job satisfaction.
+
+About this file
+This comprehensive dataset, "Employee Performance and Satisfaction Metrics Dataset", provides a holistic view of the workforce in an organization. It comprises various employee attributes, performance metrics, and job characteristics, enabling a wide range of analyses in the realm of Human Resources.
