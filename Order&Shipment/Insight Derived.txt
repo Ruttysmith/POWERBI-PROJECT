@@ -1,0 +1,25 @@
+The dashboard provides insights into order and shipment trends. Here are some key observations:
+
+Sales Trends:
+Sales have shown an upward trend over time, peaking in certain months.
+Monthly sales fluctuations indicate possible seasonality.
+
+Order Priority & Shipment Mode:
+The majority of orders are in the "Standard" shipping mode.
+High-priority orders are significantly fewer than medium and low-priority ones.
+The distribution of order priority correlates with shipment mode.
+
+Market Insights:
+Sales are distributed across multiple regions, with some markets performing better than others.
+
+Segment-wise Trends:
+Consumer, Corporate, and Home Office sales follow different patterns.
+Consumer sales appear to be more frequent than Corporate.
+
+Category Performance:
+Furniture, Office Supplies, and Technology categories have different sales patterns, with some experiencing more stable growth than others.
+Yearly Shipment Mode Trends:
+
+The number of shipments increased over the years.
+Standard shipping remains dominant, but express options have seen some growth.
+This dashboard can be used to optimize logistics, forecast demand, and adjust marketing efforts based on sales patterns.
